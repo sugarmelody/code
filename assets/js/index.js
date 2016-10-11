@@ -13,7 +13,7 @@ $(document).ready(function(){
     }, 500);
   });
 
-  console.log('© zchen9 🙋 2015-' + (new Date()).getFullYear());
+  console.log('© sugarmelody 🙋 2015-' + (new Date()).getFullYear());
 
   //分类菜单显示
   // $("#cateShow").bind("click",function(){
